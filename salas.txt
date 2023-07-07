@@ -1,0 +1,2 @@
+{"id":1,"abreviado":"miguelito","nomeCompleto":"NomeSala","horarioFuncionamento":"Horario","diaFuncionamento":"Dia","responsavel":"Responsavel","descricao":"Descricao"}
+{"id":2,"abreviado":"ABC","nomeCompleto":"Sala ABC","horarioFuncionamento":"09:00 - 18:00","diaFuncionamento":"Segunda a Sexta","responsavel":"João","descricao":"Sala de reuniões"}

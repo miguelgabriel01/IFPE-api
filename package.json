@@ -1,0 +1,19 @@
+{
+  "name": "ondeestouapi",
+  "version": "1.0.0",
+  "description": "api com crud das salas do ifpe igarassu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0",
+    "supertest": "^6.3.3"
+  }
+}
